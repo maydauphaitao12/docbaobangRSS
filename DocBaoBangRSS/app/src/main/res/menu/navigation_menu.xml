@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+    <item
+    android:id="@+id/nav_trangchu"
+    android:title="Trang chủ"
+    />
+    <item
+        android:id="@+id/nav_thegioi"
+        android:title="Thế giới"
+        />
+    <item
+        android:id="@+id/nav_thoisu"
+        android:title="Thời sự"
+        />
+    <item
+        android:id="@+id/nav_kinhdoanh"
+        android:title="Kinh doanh"
+        />
+    <item
+        android:id="@+id/nav_thethao"
+        android:title="Thể thao"
+        />
+</menu>
